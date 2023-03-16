@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @TgnDilano
-- 👀 I’m interested in mobile application development.
+- 👀 I’m interested in web/mobile application development.
 - 🌱 I’m web/flutter developer.
-- And I'm also a web developer.
-- 💞️ I’m looking to collaborate on flutter projects.
+- 💞️ I’m looking to collaborate on web/flutter projects.
 - 📫 How to reach me tchoffotagnidilane@gmail.com
 
 <!---
